@@ -1,4 +1,4 @@
-# dogan
+# doganadanali_odev
 Doğan Adanalı - MIS
 
 CSV dosyası ve istenilen inputlar ile K EN YAKIN KOMŞU ALGORİTMASI kullanılarak 
